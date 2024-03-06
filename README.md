@@ -1,3 +1,9 @@
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/ishi720/posts.svg)](http://qiita.com/ishi720)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ishi720/contributions.svg)](http://qiita.com/ishi720)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/ishi720/followers.svg)](http://qiita.com/ishi720)
+
+<br>
+
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <div>
@@ -8,3 +14,4 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ishi720&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
   <img width="720px" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishi720&theme=dracula"/>
 </div>
+
