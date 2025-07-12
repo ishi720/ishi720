@@ -1,9 +1,9 @@
 
 # Qiita Status
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/ishi720/posts.svg)](http://qiita.com/ishi720)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ishi720/contributions.svg)](http://qiita.com/ishi720)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/ishi720/followers.svg)](http://qiita.com/ishi720)
+[![Articles](https://badgen.org/img/qiita/ishi720/articles?style=plastic)](https://qiita.com/ishi720)
+[![Contributions](https://badgen.org/img/qiita/ishi720/contributions?style=plastic)](https://qiita.com/ishi720)
+[![Followers](https://badgen.org/img/qiita/ishi720/followers?style=plastic)](https://qiita.com/ishi720)
 
 # GitHub Status
 
